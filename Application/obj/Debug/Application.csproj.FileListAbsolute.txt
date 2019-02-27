@@ -1,0 +1,9 @@
+D:\QualityProject-master\Application\bin\Debug\Application.dll
+D:\QualityProject-master\Application\bin\Debug\Application.pdb
+D:\QualityProject-master\Application\bin\Debug\Domain.dll
+D:\QualityProject-master\Application\bin\Debug\Domain.pdb
+D:\QualityProject-master\Application\obj\Debug\Application.csprojAssemblyReference.cache
+D:\QualityProject-master\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+D:\QualityProject-master\Application\obj\Debug\Application.csproj.CopyComplete
+D:\QualityProject-master\Application\obj\Debug\Application.dll
+D:\QualityProject-master\Application\obj\Debug\Application.pdb

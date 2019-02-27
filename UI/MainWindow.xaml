@@ -1,0 +1,21 @@
+﻿<Window x:Class="UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Opret ny kunde" HorizontalAlignment="Left" Margin="364,173,0,0" VerticalAlignment="Top" Width="91" Height="30" Click="LavKundeKnap"/>
+        <Label Content="Indtast kundenr. for order" HorizontalAlignment="Left" Margin="184,119,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Textbox1" HorizontalAlignment="Left" Height="23" Margin="184,145,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Register nyt kundenr." HorizontalAlignment="Left" Margin="363,119,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="___Register_Kunde_Box_" HorizontalAlignment="Left" Height="23" Margin="364,145,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="ModtagOrdre" Content="Modtag Ordre" HorizontalAlignment="Left" Margin="184,173,0,0" VerticalAlignment="Top" Width="91" Height="30" Click="ModtagOrdreKnap"/>
+        <Button Content="Find Kunde" HorizontalAlignment="Left" Margin="570,173,0,0" VerticalAlignment="Top" Width="91" Height="30" Click="FindKundeKnap"/>
+        <Label Content="Søg efter kunde" HorizontalAlignment="Left" Margin="570,142,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>
